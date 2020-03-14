@@ -126,7 +126,7 @@ body {
 
 @media (max-width: 480px) {
     .hello {
-        margin-top: 100px;
+        margin-top: 30%;
         font-size: 25px;
     }
     .name {
@@ -157,7 +157,7 @@ body {
     }
     .social div {
         margin: 2px;
-        font-size: 16px;
+        font-size: 18px;
     }
     #about {
         margin: auto 30px;
